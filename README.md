@@ -8,7 +8,7 @@ Project PiSheet は、(cmでない)通常のRaspberry Pi 5をベースとした�
 
 例:PiBrick
 
-!["FabSceneより引用"]("images/スクリーンショット 2026-07-31 6.06.52.png")
+!["FabSceneより引用"]("-Project-PiSheet/images/スクリーンショット 2026-07-31 6.06.52.png")
 
 * 肉薄するほどの薄型化
     * 限界まで本体カバーを薄く、極小パーツの選定をすることで本体厚みをPiBrickと比較しても＋４mm程度のレベルまで肉薄（LANやUSBを摘出すればより薄くなります）。
