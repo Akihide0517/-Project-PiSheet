@@ -7,6 +7,7 @@ Project PiSheet は、(cmでない)通常のRaspberry Pi 5をベースとした�
 従来品との比較
 
 例:PiBrick
+
 !["FabSceneより引用"]("images/スクリーンショット 2026-07-31 6.06.52.png")
 
 * 肉薄するほどの薄型化
