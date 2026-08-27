@@ -36,7 +36,7 @@ Project PiSheet は、(cmでない)通常のRaspberry Pi 5をベースとした�
 使用する部品
 * 基本部品
     * m5stack CardKB2
-    * SupTronics Technologies X1201
+    * SupTronics Technologies X1201(円筒型バッテリーケースを外して使用)
     * raspberry pi 公式リテールクーラー
     * raspberry pi 5 model B+
     * 適切な電線とジャンパ線
@@ -44,6 +44,6 @@ Project PiSheet は、(cmでない)通常のRaspberry Pi 5をベースとした�
     * データ通信可能なUSB-Cケーブル
     * 薄型HDMI to micro HDMI ケーブル（フラットタイプ）
     * タクトスイッチ
-    * Battery Space Liポリマーセル 3.7V 2000mAh 7.4Wh(PL-605060-2C) 2つ分
-    * raspberry pi Display 4 inch 720*720 MIPI DSI TFT LCD Touch Screen with HDMI Driver Boad
+    * Battery Space Liポリマーセル 3.7V 2000mAh 7.4Wh(PL-605060-2C) 2つ分(他のものでも構いませんが保護回路があると使えません。ちなみに保護回路がない市販リポはレアです。)
+    * raspberry pi Display 4 inch 720*720 MIPI DSI TFT LCD Touch Screen with HDMI Driver Boad（タッチパネル機能をケース内に収めるにはラズパイ背面基盤のUSB端子に直接半田付けをする必要があります）
     * ３Dプリンターで作成したケース
